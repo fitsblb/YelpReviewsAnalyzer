@@ -1,7 +1,8 @@
 # LLM Project: Sentiment Analysis on Yelp Reviews
 
 ## Project Task
-This project aims to build a sentiment analysis model using a pre-trained Language Model (LLM) to classify Yelp restaurant reviews into three sentiment categories: **Positive**, **Neutral**, and **Negative**. The model is fine-tuned on a subset of the Yelp Open Dataset to predict the sentiment expressed in the review text.
+This project aims to build a sentiment analysis model using a pre-trained Language Model (LLM) to classify Yelp restaurant reviews into three sentiment categories: **Positive**, **Neutral**, and **Negative**. The model is fine-tuned on a subset of the Yelp Open Dataset to predict the sentiment expressed in the review text. The sentiment analysis model is hosted on Hugging Face. You can find and use it here: [YelpReviewsAnalyzer on Hugging Face](https://huggingface.co/fitsblb/YelpReviewsAnalyzer)
+
 
 ## Dataset
 The project utilizes the [Yelp Open Dataset](https://www.kaggle.com/datasets/capple7/yelp-open-data-philly-restaurants) focusing on restaurant reviews. The dataset contains:
